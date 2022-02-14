@@ -1,0 +1,19 @@
+tools used :
+docker desktop
+aws ec-2
+putty
+nodejs
+angular cli
+
+
+
+steps:
+first we will create angular application using ng serve command
+then we create docker file in that directory
+we will create docker image with tag using docker commands
+we will push image to dockerhub
+we will create ec2 instance
+using public v4 we open putty using key
+using commands we deploy dockerized application on ec2 instance
+
+address:http://54.91.155.248/
